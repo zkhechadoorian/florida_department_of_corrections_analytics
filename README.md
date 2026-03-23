@@ -9,6 +9,11 @@ interactive Tableau dashboard.
 This project was completed as part of a work sample for a Data Administration Analyst
 position at the Florida Department of Corrections, Bureau of Research and Data Analysis.
 
+## Screenshots
+![Dashboard Top](assets/screenshot1.png)
+![Dashboard Middle](assets/screenshot2.png)
+![Dashboard Bottom](assets/screenshot3.png)
+
 ## Data Source
 The data used in this project is sourced from the Florida Department of Corrections
 public website. To download:
@@ -61,10 +66,6 @@ The dashboard includes 11 visualizations:
 - Active inmate population by facility location (bubble map)
 - Distribution of years served
 
-### Screenshots
-![Dashboard Top](assets/screenshot1.png)
-![Dashboard Middle](assets/screenshot2.png)
-![Dashboard Bottom](assets/screenshot3.png)
 
 ## Key Findings
 - The active inmate population consists of **90,663 inmates** across **212 facilities**
